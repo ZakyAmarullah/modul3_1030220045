@@ -73,7 +73,7 @@ namespace modul3_1030220045
 
         private void button12_Click(object sender, EventArgs e)
         {
-            hasil = hasil2 + hasil;
+            hasil = hasil2  + hasil;
             textBox1.Text = hasil.ToString();
         }
 
